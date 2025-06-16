@@ -5,7 +5,6 @@ public class DigitFrequency {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
         int number = sc.nextInt();
-
         int[] freq = new int[10];
 
         while (number > 0) {
