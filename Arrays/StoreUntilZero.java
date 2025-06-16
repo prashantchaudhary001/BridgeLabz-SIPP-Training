@@ -6,7 +6,6 @@ public class StoreUntilZero {
         double[] values = new double[10];
         double total = 0;
         int index = 0;
-
         while (true) {
             System.out.print("Enter a number: ");
             double input = sc.nextDouble();
