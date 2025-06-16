@@ -5,7 +5,6 @@ public class Multiplication6to9 {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
         int number = sc.nextInt();
-
         int[] result = new int[4];
 
         for (int i = 6; i <= 9; i++) {
