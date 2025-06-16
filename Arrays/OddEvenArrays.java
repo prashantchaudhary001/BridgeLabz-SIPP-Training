@@ -5,7 +5,6 @@ public class OddEvenArrays {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a natural number: ");
         int number = sc.nextInt();
-
         if (number <= 0) {
             System.out.println("Error: Not a natural number.");
             return;
