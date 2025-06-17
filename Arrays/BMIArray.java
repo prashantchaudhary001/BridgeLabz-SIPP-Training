@@ -10,7 +10,6 @@ public class BMIArray {
         double[] heights = new double[n];
         double[] bmis = new double[n];
         String[] statuses = new String[n];
-
         for (int i = 0; i < n; i++) {
             System.out.print("Enter weight and height for person " + (i + 1) + ": ");
             weights[i] = sc.nextDouble();
