@@ -8,7 +8,6 @@ public class FriendsComparison {
         }
         return minIndex;
     }
-
     public static int findTallest(double[] heights) {
         int maxIndex = 0;
         for (int i = 1; i < heights.length; i++) {
