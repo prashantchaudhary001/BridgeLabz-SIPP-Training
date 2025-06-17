@@ -7,7 +7,6 @@ public class Copy2DTo1D {
         int rows = sc.nextInt();
         System.out.print("Enter number of columns: ");
         int cols = sc.nextInt();
-
         int[][] matrix = new int[rows][cols];
         System.out.println("Enter elements:");
         for (int i = 0; i < rows; i++)

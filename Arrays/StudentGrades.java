@@ -5,7 +5,6 @@ public class StudentGrades {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number of students: ");
         int n = sc.nextInt();
-
         int[][] marks = new int[n][3];
         double[] percentages = new double[n];
         char[] grades = new char[n];
