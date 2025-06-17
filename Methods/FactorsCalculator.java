@@ -17,7 +17,6 @@ public class FactorsCalculator {
     public static int greatestFactor(int[] factors) {
         return factors[factors.length - 1];
     }
-
     public static int sumOfFactors(int[] factors) {
         int sum = 0;
         for (int factor : factors) {
