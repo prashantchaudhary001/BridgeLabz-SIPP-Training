@@ -16,7 +16,6 @@ public class UnitConverterLength {
     public static double convertInchesToMeters(double inches) {
         return inches * 0.0254;
     }
-
     public static double convertInchesToCm(double inches) {
         return inches * 2.54;
     }
