@@ -13,7 +13,6 @@ public class NumberCheckerDigits {
         }
         return digits;
     }
-
     public static int[] reverseDigits(int[] digits) {
         int[] reversed = new int[digits.length];
         for (int i = 0; i < digits.length; i++) {

@@ -6,7 +6,6 @@ public class FootballTeamHeights {
         }
         return heights;
     }
-
     public static int sumHeights(int[] heights) {
         int sum = 0;
         for (int height : heights) {

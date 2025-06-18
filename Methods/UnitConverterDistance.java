@@ -16,7 +16,6 @@ public class UnitConverterDistance {
     public static double convertFeetToMeters(double feet) {
         return feet * 0.3048;
     }
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double km = scanner.nextDouble();
