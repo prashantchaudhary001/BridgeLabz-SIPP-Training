@@ -14,7 +14,6 @@ public class CompareStringsCharAt {
         String str1 = sc.next();
         System.out.print("Enter second string: ");
         String str2 = sc.next();
-
         boolean userResult = compareByCharAt(str1, str2);
         boolean builtInResult = str1.equals(str2);
         System.out.println("User-defined comparison: " + userResult);
