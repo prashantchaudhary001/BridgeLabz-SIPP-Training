@@ -13,7 +13,6 @@ public class NullPointerDemo {
             System.out.println("Caught NullPointerException: " + e.getMessage());
         }
     }
-
     public static void main(String[] args) {
         System.out.println("Demonstrating NullPointerException handling:");
         handleNullPointer();
