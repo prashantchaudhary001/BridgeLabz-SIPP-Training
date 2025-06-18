@@ -8,6 +8,7 @@ public class StringLengthManual {
                 str.charAt(count);
                 count++;
             }
+            
         } catch (Exception e) {
         }
         return count;
