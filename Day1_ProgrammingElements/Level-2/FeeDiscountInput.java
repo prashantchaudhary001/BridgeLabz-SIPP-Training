@@ -3,6 +3,7 @@ package Day2;
 import java.util.Scanner;
 
 public class FeeDiscountInput {
+    
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double fee, discountPercent;
