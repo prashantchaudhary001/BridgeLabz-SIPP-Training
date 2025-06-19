@@ -1,6 +1,7 @@
 package Day2;
 
 public class FeeDiscount {
+    
     public static void main(String[] args) {
         double fee = 125000;
         double discountPercent = 10;
