@@ -23,7 +23,6 @@ public class StudentVoting {
         }
         return result;
     }
-
     public static void displayTable(String[][] arr) {
         System.out.println("Age\tCan Vote");
         for (String[] row : arr) {

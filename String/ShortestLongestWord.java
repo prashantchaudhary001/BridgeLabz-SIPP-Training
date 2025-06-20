@@ -30,7 +30,6 @@ public class ShortestLongestWord {
         return count;
     }
 
-    
     public static String[][] getWordsAndLengths(String[] words) {
         String[][] arr = new String[words.length][2];
         for (int i = 0; i < words.length; i++) {

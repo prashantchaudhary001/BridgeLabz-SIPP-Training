@@ -28,7 +28,6 @@ public class RockPaperScissors {
         return stats;
     }
 
-    
     public static void displayResults(String[][] results, String[][] stats) {
         System.out.println("Game\tUser\tComputer\tWinner");
         for (int i = 0; i < results.length; i++) {

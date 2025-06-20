@@ -32,7 +32,6 @@ public class SplitTextCompare {
         return words;
     }
 
-    
     public static boolean compareStringArrays(String[] arr1, String[] arr2) {
         if (arr1.length != arr2.length) return false;
         for (int i = 0; i < arr1.length; i++) {

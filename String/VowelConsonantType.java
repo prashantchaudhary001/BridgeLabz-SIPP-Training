@@ -24,7 +24,6 @@ public class VowelConsonantType {
             System.out.println(row[0] + "\t" + row[1]);
         }
     }
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a string: ");

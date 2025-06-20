@@ -44,7 +44,6 @@ public class WordsWithLengths {
             System.out.println(row[0] + "\t" + len);
         }
     }
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a sentence: ");

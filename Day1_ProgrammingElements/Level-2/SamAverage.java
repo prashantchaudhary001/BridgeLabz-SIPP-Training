@@ -1,6 +1,7 @@
 package Day2;
 
 public class SamAverage {
+    
     public static void main(String[] args) {
         int maths = 94;
         int physics = 95;

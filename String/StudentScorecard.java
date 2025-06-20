@@ -25,7 +25,6 @@ public class StudentScorecard {
         return stats;
     }
 
-    
     public static String[] calculateGrades(double[][] stats) {
         int n = stats.length;
         String[] grades = new String[n];
