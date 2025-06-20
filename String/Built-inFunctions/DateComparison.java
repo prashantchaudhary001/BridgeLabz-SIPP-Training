@@ -2,6 +2,7 @@ import java.time.LocalDate;
 
 public class DateComparison {
     public static void main(String[] args) {
+        
         LocalDate date1 = LocalDate.of(2023, 6, 19);
         LocalDate date2 = LocalDate.of(2025, 6, 19);
 
