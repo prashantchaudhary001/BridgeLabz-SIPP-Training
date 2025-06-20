@@ -2,6 +2,7 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
 public class DateFormatting {
+    
     public static void main(String[] args) {
         LocalDate today = LocalDate.now();
         DateTimeFormatter format1 = DateTimeFormatter.ofPattern("dd/MM/yyyy");
