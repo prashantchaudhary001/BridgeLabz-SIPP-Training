@@ -8,7 +8,6 @@ public class MovieTicket {
         seatNumber = seat;
         price = cost;
     }
-
     public void displayTicket() {
         System.out.println("Movie: " + movieName);
         System.out.println("Seat Number: " + seatNumber);
