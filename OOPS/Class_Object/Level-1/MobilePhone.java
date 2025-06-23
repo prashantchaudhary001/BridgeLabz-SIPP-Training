@@ -8,7 +8,6 @@ public class MobilePhone {
         this.model = model;
         this.price = price;
     }
-
     public void displayDetails() {
         System.out.println("Brand: " + brand);
         System.out.println("Model: " + model);
