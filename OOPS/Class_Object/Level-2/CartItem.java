@@ -10,7 +10,6 @@ public class CartItem {
         this.price = price;
         this.quantity = qty;
     }
-
     public double totalCost() {
         return price * quantity;
     }
