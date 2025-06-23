@@ -9,7 +9,6 @@ public class PalindromeChecker {
         String reversed = new StringBuilder(text).reverse().toString();
         return text.equalsIgnoreCase(reversed);
     }
-
     public void displayResult() {
         System.out.println("Text: " + text);
         System.out.println("Is Palindrome: " + isPalindrome());
