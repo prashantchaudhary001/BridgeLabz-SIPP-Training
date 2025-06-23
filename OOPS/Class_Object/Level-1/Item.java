@@ -9,7 +9,6 @@ public class Item {
         this.itemName = name;
         this.price = price;
     }
-
     public void displayDetails(int quantity) {
         double total = quantity * price;
         System.out.println("Item Code: " + itemCode);

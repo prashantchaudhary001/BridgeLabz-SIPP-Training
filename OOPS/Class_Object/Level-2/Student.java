@@ -8,7 +8,6 @@ public class Student {
         this.rollNumber = rollNumber;
         this.marks = marks;
     }
-
     public String calculateGrade() {
         if (marks >= 90) return "A";
         else if (marks >= 75) return "B";

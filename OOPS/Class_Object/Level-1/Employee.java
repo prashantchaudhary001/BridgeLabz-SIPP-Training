@@ -9,7 +9,6 @@ public class Employee {
         this.id = id;
         this.salary = salary;
     }
-
     public void displayDetails() {
         System.out.println("Name: " + name);
         System.out.println("ID: " + id);
