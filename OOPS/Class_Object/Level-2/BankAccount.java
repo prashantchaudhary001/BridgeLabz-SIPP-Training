@@ -8,7 +8,6 @@ public class BankAccount {
         this.accountNumber = number;
         this.balance = balance;
     }
-
     public void deposit(double amount) {
         balance += amount;
         System.out.println("₹" + amount + " deposited.");
