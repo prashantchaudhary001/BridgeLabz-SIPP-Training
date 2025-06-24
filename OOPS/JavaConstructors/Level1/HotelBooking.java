@@ -10,7 +10,6 @@ public class HotelBooking {
         this.roomType = "Standard";
         this.nights = 1;
     }
-
     public HotelBooking(String guestName, String roomType, int nights) {
         this.guestName = guestName;
         this.roomType = roomType;
