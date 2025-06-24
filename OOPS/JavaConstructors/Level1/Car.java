@@ -5,7 +5,6 @@ public class Car {
     private String carModel;
     private int rentalDays;
     private double dailyRate = 1000.0; 
-
     public Car() {
         this.customerName = "Customer";
         this.carModel = "Basic";
