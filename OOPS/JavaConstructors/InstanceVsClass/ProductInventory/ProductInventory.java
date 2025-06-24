@@ -16,7 +16,6 @@ public class ProductInventory {
         System.out.println("Product Name: " + productName);
         System.out.println("Price: ₹" + price);
     }
-
     public static void displayTotalProducts() {
         System.out.println("Total Products Created: " + totalProducts);
     }
