@@ -12,7 +12,6 @@ public class Library {
         this.price = price;
         this.isAvailable = true;  
     }
-
     public boolean borrowBook() {
         if (isAvailable) {
             isAvailable = false;
