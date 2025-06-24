@@ -5,7 +5,6 @@ public class Vehicle {
     private String vehicleType;
 
     private static double registrationFee = 5000.0;
-
     public Vehicle(String ownerName, String vehicleType) {
         this.ownerName = ownerName;
         this.vehicleType = vehicleType;
