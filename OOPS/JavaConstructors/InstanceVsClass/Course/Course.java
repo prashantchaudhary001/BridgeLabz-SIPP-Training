@@ -12,7 +12,6 @@ public class Course {
         this.duration = duration;
         this.fee = fee;
     }
-
     public void displayCourseDetails() {
         System.out.println("Course Name: " + courseName);
         System.out.println("Duration: " + duration + " months");
