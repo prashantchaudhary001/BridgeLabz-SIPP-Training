@@ -14,7 +14,6 @@ class Student {
     public double getCGPA() {
         return CGPA;
     }
-
     public void setCGPA(double CGPA) {
         this.CGPA = CGPA;
     }
