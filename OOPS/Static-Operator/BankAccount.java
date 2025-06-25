@@ -2,7 +2,7 @@
 // Sample Program 1: Bank Account System
 // Demonstrates static, this, final, and instanceof best practices
 
-public class Q1_BankAccount {
+public class BankAccount {
     private static String bankName = "Global Bank";
     private static int totalAccounts = 0;
     private final int accountNumber;
