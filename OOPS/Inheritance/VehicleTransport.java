@@ -17,7 +17,6 @@ class Vehicle {
      System.out.println("Fuel Type: " + fuelType);
  }
 }
-
 //Car subclass
 class Car extends Vehicle {
  int seatCapacity;   
