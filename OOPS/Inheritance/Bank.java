@@ -10,7 +10,6 @@ class BankAccount {
      this.accountNumber = accountNumber;
      this.balance = balance;
  }
-
  // Method to display account details
  public void displayAccountInfo() {
      System.out.println("Account Number: " + accountNumber);
