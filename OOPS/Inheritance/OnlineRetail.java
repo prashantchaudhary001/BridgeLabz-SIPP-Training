@@ -15,7 +15,6 @@ class Order {
  String getOrderStatus() {
      return "Order placed";
  }
-
  // Display common order information
  public void displayOrderInfo() {
      System.out.println("Order ID: " + orderId);
