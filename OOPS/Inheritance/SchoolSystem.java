@@ -17,7 +17,6 @@ class Person {
      System.out.println("Age: " + age);
  }
 }
-
 //Teacher subclass
 class Teacher extends Person {
  String subject;  // Subject taught
