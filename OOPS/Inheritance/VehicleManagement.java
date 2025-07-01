@@ -17,7 +17,6 @@ class Vehicle {
      System.out.println("Max Speed: " + maxSpeed + " km/h");
  }
 }
-
 //Interface representing refuelable 
 interface Refuelable {
  void refuel(); 
