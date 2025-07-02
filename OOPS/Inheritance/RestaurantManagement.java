@@ -10,7 +10,6 @@ class Person {
      this.name = name;
      this.id = id;
  }
-
  // Method to display person details
  public void displayInfo() {
      System.out.println("Name: " + name);

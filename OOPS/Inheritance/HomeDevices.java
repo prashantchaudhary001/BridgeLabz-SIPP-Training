@@ -10,7 +10,6 @@ class Device {
      this.deviceId = deviceId;
      this.status = status;
  }
-
  // Method to display device status
  public void displayStatus() {
      System.out.println("Device ID: " + deviceId);

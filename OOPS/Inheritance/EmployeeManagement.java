@@ -12,7 +12,6 @@ class Employee {
      this.id = id;
      this.salary = salary;
  }
-
  // Method to display employee details
  public void displayDetails() {
      System.out.println("Name: " + name);
