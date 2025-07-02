@@ -18,7 +18,6 @@ abstract class FoodItem {
         System.out.println("Item: " + itemName + ", Price: " + price + ", Quantity: " + quantity);
     }
 }
-
 interface Discountable {
     double applyDiscount();
     String getDiscountDetails();
