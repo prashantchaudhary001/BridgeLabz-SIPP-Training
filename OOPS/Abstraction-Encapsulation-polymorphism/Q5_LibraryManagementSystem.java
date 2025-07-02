@@ -20,7 +20,6 @@ abstract class LibraryItem {
         System.out.println("ID: " + itemId + ", Title: " + title + ", Author: " + author);
     }
 }
-
 interface Reservable {
     void reserveItem(String borrower);
     boolean checkAvailability();
