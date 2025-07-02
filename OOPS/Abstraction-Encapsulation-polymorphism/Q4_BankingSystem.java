@@ -16,7 +16,6 @@ abstract class BankAccount {
     public void withdraw(double amount) { if (balance >= amount) balance -= amount; }
     public abstract double calculateInterest();
 }
-
 interface Loanable {
     void applyForLoan(double amount);
     boolean calculateLoanEligibility();
