@@ -25,7 +25,6 @@ interface MedicalRecord {
     void addRecord(String record);
     void viewRecords();
 }
-
 class InPatient extends Patient implements MedicalRecord {
     private double roomCharge;
     private String record = "";
