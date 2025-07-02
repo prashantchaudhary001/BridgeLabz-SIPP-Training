@@ -15,7 +15,6 @@ abstract class Product {
     public void setPrice(double price) { this.price = price; }
     public abstract double calculateDiscount();
 }
-
 interface Taxable {
     double calculateTax();
     String getTaxDetails();
