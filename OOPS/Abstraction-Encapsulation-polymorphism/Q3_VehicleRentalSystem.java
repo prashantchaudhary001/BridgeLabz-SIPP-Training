@@ -17,7 +17,6 @@ abstract class Vehicle {
     protected String getInsurancePolicyNumber() { return insurancePolicyNumber; }
     public abstract double calculateRentalCost(int days);
 }
-
 interface Insurable {
     double calculateInsurance();
     String getInsuranceDetails();
