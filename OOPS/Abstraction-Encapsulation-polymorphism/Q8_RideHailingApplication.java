@@ -17,7 +17,6 @@ abstract class RideVehicle {
         System.out.println("Vehicle: " + vehicleId + ", Driver: " + driverName + ", Rate/Km: " + ratePerKm);
     }
 }
-
 interface GPS {
     String getCurrentLocation();
     void updateLocation(String location);
