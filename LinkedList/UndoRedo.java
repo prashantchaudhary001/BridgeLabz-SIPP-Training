@@ -16,7 +16,6 @@ class TextEditor {
  TextState head = null, current = null;
  int maxHistory = 10;
  int size = 0;
-
  // Add new text state at the end
  void addState(String content) {
      TextState newState = new TextState(content);
