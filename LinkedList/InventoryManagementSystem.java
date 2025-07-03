@@ -7,7 +7,6 @@ class Item {
  int quantity;
  double price;
  Item next;
-
  // Constructor
  Item(String name, int id, int quantity, double price) {
      this.name = name;
