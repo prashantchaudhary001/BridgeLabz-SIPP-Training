@@ -17,7 +17,6 @@ class User {
      this.friendIds = new ArrayList<>();
  }
 }
-
 //Singly Linked List
 class SocialMedia {
  User head = null;
