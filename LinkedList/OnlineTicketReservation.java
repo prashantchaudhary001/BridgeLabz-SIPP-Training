@@ -15,7 +15,6 @@ class Ticket {
         this.time = time;
     }
 }
-
 //Circular Linked List
 class TicketSystem {
     Ticket head = null;
