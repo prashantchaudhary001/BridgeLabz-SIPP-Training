@@ -19,7 +19,6 @@ class Movie {
         this.next = null;
     }
 }
-
 //Doubly Linked List
 class MovieList {
     private Movie head;
