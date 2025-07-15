@@ -14,7 +14,6 @@ public class JobApplicantsSalary {
             System.out.print(salary + " ");
         }
     }
-
     //Heap Sort 
     public static void heapSort(int[] arr) {
         int n = arr.length;
