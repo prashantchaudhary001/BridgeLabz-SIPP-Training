@@ -13,7 +13,7 @@ public class SlidingWindowMaximum {
         Deque<Integer> dq = new LinkedList<>();
 
         for (int i = 0; i < arr.length; i++) {
-        	
+        
             // Remove indices out of current window
             while (!dq.isEmpty() && dq.peekFirst() <= i - k) {
                 dq.pollFirst();
