@@ -15,7 +15,6 @@ public class ProductPrices {
             System.out.print(price + " ");
         }
     }
-
     //Quick Sort function
     public static void quickSort(int[] arr, int low, int high) {
         if (low < high) {
