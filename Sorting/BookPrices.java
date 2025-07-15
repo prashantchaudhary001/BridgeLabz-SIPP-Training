@@ -1,7 +1,6 @@
 package sorting_package;
 
 public class BookPrices {
-
     //Merge Sort 
     public static void mergeSort(int[] prices, int left, int right) {
         if (left < right) {
