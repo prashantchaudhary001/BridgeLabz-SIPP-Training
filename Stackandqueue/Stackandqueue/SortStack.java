@@ -10,7 +10,7 @@ public class SortStack {
         	
         	//Pop
             int top = stack.pop(); 
-            
+    
             //Sort
             sortStack(stack);       
             //Insert
