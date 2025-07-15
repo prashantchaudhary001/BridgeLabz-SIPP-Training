@@ -18,7 +18,6 @@ public class StudentAges {
         for (int age : ages) {
             count[age - min]++;
         }
-
         //Update the count array with cumulative frequency
         for (int i = 1; i < range; i++) {
             count[i] += count[i - 1];
