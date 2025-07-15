@@ -10,7 +10,7 @@ public class StudentMarks {
             boolean swapped = false;
             for (int j = 0; j < n - i - 1; j++) {
                 if (marks[j] > marks[j + 1]) {
-                	
+             	
                     //Swap marks[j] and marks[j+1]
                     int temp = marks[j];
                     marks[j] = marks[j + 1];
