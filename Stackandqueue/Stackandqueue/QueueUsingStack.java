@@ -11,7 +11,6 @@ public class QueueUsingStack {
     public void enqueue(int value) {
         stack1.push(value);
     }
-
     // Dequeue operation
     public int dequeue() {
         if (stack2.isEmpty()) {
