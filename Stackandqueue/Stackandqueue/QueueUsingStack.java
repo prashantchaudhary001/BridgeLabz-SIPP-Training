@@ -6,7 +6,6 @@ import java.util.*;
 public class QueueUsingStack {
     Stack<Integer> stack1 = new Stack<>();
     Stack<Integer> stack2 = new Stack<>();
-
     // Enqueue operation
     public void enqueue(int value) {
         stack1.push(value);
