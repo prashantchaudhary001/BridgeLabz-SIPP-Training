@@ -17,7 +17,6 @@ class Student {
         this.next = null;
     }
 }
-
 //Singly Linked List
 class StudentList {
     private Student head;

@@ -12,7 +12,6 @@ class Process {
      this.priority = priority;
  }
 }
-
 //Circular Linked List
 class Scheduler {
  Process head = null;
