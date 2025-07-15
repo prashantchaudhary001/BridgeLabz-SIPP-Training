@@ -13,7 +13,6 @@ public class CircularTour {
         else
             System.out.println("Start at pump: " + start);
     }
-
     public static int findStartPoint(int[] petrol, int[] distance) {
         int total = 0;   // Total fuel
         int curr = 0;    // Current fuel 
