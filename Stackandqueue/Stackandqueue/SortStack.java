@@ -13,7 +13,6 @@ public class SortStack {
             
             //Sort
             sortStack(stack);       
-            
             //Insert
             insertInSortedOrder(stack, top);
         }
