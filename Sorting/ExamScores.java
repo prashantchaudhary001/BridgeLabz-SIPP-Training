@@ -16,7 +16,6 @@ public class ExamScores {
                     minIndex = j;
                 }
             }
-
             //Swap the minimum element with the first unsorted element
             int temp = scores[minIndex];
             scores[minIndex] = scores[i];
