@@ -9,7 +9,6 @@ public class StockSpan {
         int[] span = new int[n];
 
         Stack<Integer> stack = new Stack<>();
-
         for (int i = 0; i < n; i++) {
         	
             // Pop elements from stack while current price is higher
