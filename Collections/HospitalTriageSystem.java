@@ -11,7 +11,6 @@ class Patient {
         this.name = name;
         this.severity = severity;
     }
-
     //Override toString for easy printing
     public String toString() {
         return name + " (Severity: " + severity + ")";
