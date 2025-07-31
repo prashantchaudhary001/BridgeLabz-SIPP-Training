@@ -14,7 +14,6 @@ public class MaxValueKey {
         //Find key with max value
         String maxKey = null;
         int maxValue = Integer.MIN_VALUE;
-
         for (Map.Entry<String, Integer> entry : map.entrySet()) {
             if (entry.getValue() > maxValue) {
                 maxValue = entry.getValue();
