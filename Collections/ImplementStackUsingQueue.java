@@ -9,7 +9,7 @@ class ImplementStackUsingQueue {
 
     //Push element onto stack
     public void push(int x) {
-    	
+    
         //Enqueue new element into q2
         q2.add(x);
 
