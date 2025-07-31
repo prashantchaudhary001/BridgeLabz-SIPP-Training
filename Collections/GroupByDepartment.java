@@ -16,7 +16,6 @@ class Employee {
         return name;
     }
 }
-
 public class GroupByDepartment {
     public static void main(String[] args) {
     	
