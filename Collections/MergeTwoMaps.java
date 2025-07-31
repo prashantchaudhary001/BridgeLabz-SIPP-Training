@@ -4,7 +4,7 @@ import java.util.*;
 
 public class MergeTwoMaps {
     public static void main(String[] args) {
-    	
+    
         //Create two maps
         Map<String, Integer> map1 = new HashMap<>();
         map1.put("A", 1);
