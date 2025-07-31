@@ -11,7 +11,6 @@ public class WordFrequencyCounter {
 
         //Split text into words
         String[] words = text.split("\\s+");
-
         //Create map to store word frequencies
         Map<String, Integer> wordCount = new HashMap<>();
 
