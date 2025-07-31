@@ -13,7 +13,6 @@ class CircularBuffer {
         this.size = size;
         buffer = new int[size];
     }
-
     //Insert element into buffer
     public void insert(int value) {
         int index = (start + count) % size;
