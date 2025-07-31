@@ -4,7 +4,7 @@ import java.util.*;
 
 public class RotateElements {
     public static void main(String[] args) {
-    	
+    
         //Original list
         List<Integer> numbers = new ArrayList<>(Arrays.asList(10, 20, 30, 40, 50));
         int rotateBy = 2;
