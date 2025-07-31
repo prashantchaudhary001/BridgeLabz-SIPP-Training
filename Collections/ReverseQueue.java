@@ -4,7 +4,7 @@ import java.util.*;
 
 public class ReverseQueue {
     public static void main(String[] args) {
-    	
+    
         //Create queue
         Queue<Integer> queue = new LinkedList<>();
         queue.add(10);
