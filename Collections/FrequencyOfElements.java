@@ -10,7 +10,6 @@ public class FrequencyOfElements {
 
         //Create a map to store the frequency of each string
         Map<String, Integer> frequencyMap = new HashMap<>();
-
         for (String fruit : fruits) {
             if (frequencyMap.containsKey(fruit)) {
                 frequencyMap.put(fruit, frequencyMap.get(fruit) + 1);
