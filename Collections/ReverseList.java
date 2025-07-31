@@ -8,7 +8,6 @@ public class ReverseList {
     public static <T> void reverseList(List<T> list) {
         int left = 0;                   
         int right = list.size() - 1;   
-
         while (left < right) {
         	
             //Swap elements
