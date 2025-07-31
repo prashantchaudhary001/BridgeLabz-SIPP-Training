@@ -11,7 +11,6 @@ public class GenerateBinaryNumber {
 
         System.out.println("First " + N + " Binary Numbers: " + binaryNumbers);
     }
-
     public static List<String> generateBinaryNumbers(int N) {
         List<String> result = new ArrayList<>();
         Queue<String> queue = new LinkedList<>();
