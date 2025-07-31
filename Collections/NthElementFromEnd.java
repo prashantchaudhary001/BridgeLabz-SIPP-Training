@@ -8,7 +8,6 @@ public class NthElementFromEnd {
         //Create linked list
         LinkedList<String> list = new LinkedList<>(Arrays.asList("A", "B", "C", "D", "E"));
         int N = 2;
-
         String result = findNthFromEnd(list, N);
         System.out.println(result);
     }
