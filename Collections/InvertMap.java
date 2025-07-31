@@ -4,7 +4,7 @@ import java.util.*;
 
 public class InvertMap {
     public static void main(String[] args) {
-    	
+    
         //Original map
         Map<String, Integer> originalMap = new HashMap<>();
         originalMap.put("A", 1);
