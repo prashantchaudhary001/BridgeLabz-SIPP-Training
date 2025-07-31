@@ -12,7 +12,6 @@ public class RemoveDuplicates {
 
         System.out.println(result);
     }
-
     public static List<Integer> removeDuplicatesPreserveOrder(List<Integer> list) {
         Set<Integer> seen = new HashSet<>();        
         List<Integer> output = new ArrayList<>();    
