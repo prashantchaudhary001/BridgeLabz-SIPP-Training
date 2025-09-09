@@ -41,7 +41,7 @@ It focuses on how Java implements core OOP concepts, with practical examples and
 *Oops Design:* Applying design principles to object-oriented code for better structure and maintenance.
 *This, Static, Final:* Learning about this keyword, static variables/methods, and the usage of the final keyword.
 
-[👉 View OOPS Branch](https://github.com/ankitrawat2099/BridgeLabz-SIPP-Training/tree/Oops)
+[👉 View OOPS Branch](https://github.com/prashantchaudhary001/BridgeLabz-SIPP-Training/tree/OOPS)
 
 ---
 
@@ -56,7 +56,7 @@ The purpose is to build strong problem-solving skills and prepare for technical 
 *Stack, Queue, HashMap & Hashing Function:* Working with Stack and Queue data structures, HashMap, and learning about hashing concepts.
 *Time Complexity:* Analyzing and understanding the time complexity of algorithms for optimization.
 
-[👉 View DSA Branch](https://github.com/ankitrawat2099/BridgeLabz-SIPP-Training/tree/DSA)
+[👉 View DSA Branch](https://github.com/prashantchaudhary001/BridgeLabz-SIPP-Training/tree/DSA)
 
 ---
 
@@ -64,9 +64,9 @@ The purpose is to build strong problem-solving skills and prepare for technical 
 
 | Branch | Topics & Links |
 |--------|-----------------|
-| *Core-Java* | [Practice Assignments](https://github.com/ankitrawat2099/BridgeLabz-SIPP-Training/tree/Core-Java) |
-| *OOPS* | [Practice Programs](https://github.com/ankitrawat2099/BridgeLabz-SIPP-Training/tree/Oops) |
-| *DSA* | [DSA Implementations & Solutions](https://github.com/ankitrawat2099/BridgeLabz-SIPP-Training/tree/DSA) |
+| *Core-Java* | [Practice Assignments](https://github.com/prashantchaudhary001/BridgeLabz-SIPP-Training/tree/Core-Java) |
+| *OOPS* | [Practice Programs](https://github.com/prashantchaudhary001/BridgeLabz-SIPP-Training/tree/OOPS) |
+| *DSA* | [DSA Implementations & Solutions](https://github.com/prashantchaudhary001/BridgeLabz-SIPP-Training/tree/DSA) |
 
 ---
 
