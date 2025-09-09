@@ -24,7 +24,7 @@ It contains beginner-friendly topics that cover basic syntax, control flow, and 
 *Programming Elements:* Covers fundamental programming elements such as data types, variables, operators, and input/output handling.
 *Strings:* Working with strings in Java, using various string methods for manipulation.
 
-[👉 View Core-Java Branch](https://github.com/ankitrawat2099/BridgeLabz-SIPP-Training/tree/Core-Java)
+[👉 View Core-Java Branch](https://github.com/prashantchaudhary001/BridgeLabz-SIPP-Training/tree/Core-Java)
 
 ---
 
